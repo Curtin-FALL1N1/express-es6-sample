@@ -11,7 +11,7 @@
 var debug = debugLib('myapp:server');
 
 /**
- * Get port from environment and store in Express.
+ * Get port from environment and store in Express App - Kaiting Huang (23429905).
  */
 
 var port = normalizePort(process.env.PORT || '3000');
